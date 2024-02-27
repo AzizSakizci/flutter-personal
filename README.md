@@ -1,6 +1,7 @@
-# aurora
+# Company Directory App
 
-A new Flutter project.
+
+A simple Flutter project for managing and accessing employee information within a company.
 
 ## Getting Started
 
